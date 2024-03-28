@@ -30,9 +30,9 @@
 
 </td><td valign="top" width="16%">
 
+  <!-- ![developer-gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif) -->
   [develepoer-gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
-  <!-- !![develepoer-gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
-  ![develepoer-gif](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)-->
+  <!-- ![develepoer-gif](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)  -->
 
 </td></tr></table>  
 
