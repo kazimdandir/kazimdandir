@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kazim.  
+# Hi there <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="40" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Kazim.  
   
 
 <a href="https://github.com/kazimdandir" target="_blank">
@@ -15,7 +15,7 @@
 </a>  
 <a href="https://www.discord.com/users/kazim71" target="_blank">
 <img src=https://img.shields.io/badge/discord-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a> 
+</a>  
    
   <br>
   <br>
@@ -30,7 +30,7 @@
 
 </td><td valign="top" width="16%">
 
-  ![develepoer-gif](https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
+  ![develepoer-gif](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
 
 </td></tr></table>  
 
@@ -39,12 +39,15 @@
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="50" alt="C#" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="GitBash" height="50" /></a> 
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css" height="50" /></a>  
+<a href="https://https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="c#" /></a>
+<a href="https://visualstudio.microsoft.com/tr/vs/getting-started/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="50" alt="visual_studio" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" height="50" alt="visual_studio_code" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" alt="git_hub" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git_bash" height="50" /></a> 
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="mssql" height="50" /></a>  
+<a href="https://www.adobe.com/tr/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwqpSwBhClARIsADlZ_Tl3nsipeLE6OrJyxkBUjjDPTOZPCNVpxozFgyt-vOxxRO1ZPHkbXx4aAoHfEALw_wcB&skwcid=AL!3085!3!602588947829!e!!g!!adobe%20illustrator&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=Cj0KCQjwqpSwBhClARIsADlZ_Tl3nsipeLE6OrJyxkBUjjDPTOZPCNVpxozFgyt-vOxxRO1ZPHkbXx4aAoHfEALw_wcB:G:s&s_kwcid=AL!3085!3!602588947829!e!!g!!adobe%20illustrator!1448693953!55308604446&gad_source=1" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="adobe_illustrator" height="50" /></a>  
 <!-- <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   -->
 <!-- <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034" height="50" /></a> -->
