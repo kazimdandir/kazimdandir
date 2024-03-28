@@ -30,7 +30,9 @@
 
 </td><td valign="top" width="16%">
 
-  ![develepoer-gif](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
+  ![develepoer-gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+  <!-- ![develepoer-gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+  ![develepoer-gif](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif) -->
 
 </td></tr></table>  
 
@@ -44,9 +46,9 @@
 <a href="https://https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="c#" /></a>
 <a href="https://visualstudio.microsoft.com/tr/vs/getting-started/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="50" alt="visual_studio" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" height="50" alt="visual_studio_code" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" alt="git_hub" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git_hub" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git_bash" height="50" /></a> 
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="mssql" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" /></a>  
 <a href="https://www.adobe.com/tr/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwqpSwBhClARIsADlZ_Tl3nsipeLE6OrJyxkBUjjDPTOZPCNVpxozFgyt-vOxxRO1ZPHkbXx4aAoHfEALw_wcB&skwcid=AL!3085!3!602588947829!e!!g!!adobe%20illustrator&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=Cj0KCQjwqpSwBhClARIsADlZ_Tl3nsipeLE6OrJyxkBUjjDPTOZPCNVpxozFgyt-vOxxRO1ZPHkbXx4aAoHfEALw_wcB:G:s&s_kwcid=AL!3085!3!602588947829!e!!g!!adobe%20illustrator!1448693953!55308604446&gad_source=1" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="adobe_illustrator" height="50" /></a>  
 <!-- <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   -->
