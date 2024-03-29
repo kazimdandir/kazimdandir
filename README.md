@@ -51,8 +51,7 @@
 </p>
 <br>
 
-<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.
-gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
 <h3 align="left" style="display: inline-block;
 background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
@@ -125,24 +124,6 @@ text-fill-color: transparent;">Trophy</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=kazimdandir&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
-
- <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
-
- <h3 align="left" style="display: inline-block;
-background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
-text-fill-color: transparent;">Top Open Source</h3>
-[![InfoTechHTML](https://github-readme-stats.vercel.app/api/pin/?username=kazimdandir&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimdandir/InfoTechHTML)
-[![PizzaSiparisUygulamasi_WFA](https://github-readme-stats.vercel.app/api/pin/?username=kazimdandir&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimdandir/PizzaSiparisUygulamasi_WFA)
-[![StockTrackingApp](https://github-readme-stats.vercel.app/api/pin/?username=kazimdandir&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimdandir/StockTrackingApp)
-[![Kazim Dandir Readme](https://github-readme-stats.vercel.app/api/pin/?username=kazimdandir&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-
-<p align="left">
-  <a href="https://github.com/kazimdandir?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
  <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
