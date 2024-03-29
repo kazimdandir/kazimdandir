@@ -152,4 +152,4 @@ text-fill-color: transparent;">GitHub Stats</h3>
     <br/>
   </a>  
 
-  ![Kazim Dandir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kazimdandir&custom_title=Kazim Dandir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Kazim Dandir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kazimdandir&custom_title=kazimdandir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
