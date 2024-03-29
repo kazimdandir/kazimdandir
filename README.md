@@ -3,16 +3,15 @@
   </a>
 
   <h2 align="center">
-    Hi <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;
-    background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-    background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-fill-color: transparent;">, I'm Kazim.
+    Hi <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;">, I'm Kazim.
     </h2>
 
-<h3 align="center">A passionate Programmer from Istanbul</h3>
+<h3 align="center" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
+background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+text-fill-color: transparent;">A passionate Programmer from Istanbul</h3>
 
 <p align="center">I witness with amazement the tremendous changes that computer technology brings into our lives every day. Discovering innovative 🌐 technologies and using them skillfully to create wonderful things has become a real source of excitement for me. I'm still at the beginning of my journey, but with each new step, I learn more and 💻 continue to develop myself. Creating creative projects using innovative tools 🛠️ has become not only a hobby but also a passion for me. In this process, I find great joy in exploring the unlimited potential of technology and continuously improving myself.</p>
 
@@ -41,7 +40,7 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: gainsboro;">
 <a href="https://linkedin.com/in/kazimikbaldandir" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/linkedin.svg" alt="kazimikbaldandir" height="30" width="40" /></a>
 <a href="https://medium.com/@kikbal.dandir" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/medium.svg" alt="kikbal.dandir" height="30" width="40" style="background-color: white;"/></a>
 <a href="https://stackoverflow.com/users/21403272/kaz%C4%B1m-%C4%B0kbal-dand%C4%B1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/stackoverflow.svg" alt="kazim" height="30" width="40" /></a>
@@ -53,13 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
-<h3 align="left" style="display: inline-block;
-background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
-text-fill-color: transparent;">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <table align="center">
   <tr>
     <td align="center" width="110">
@@ -127,13 +120,7 @@ text-fill-color: transparent;">Trophy</h3>
 
  <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
- <h3 align="left" style="display: inline-block;
-background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
-text-fill-color: transparent;">GitHub Stats</h3>
+ <h3 align="left">GitHub Stats</h3>
 <p align="center">
     <a href="https://github.com/kazimdandir">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimdandir&theme=radical&border=7F3FBF&background=0D1117" alt="Kazim Dandir's GitHub streak"/>
