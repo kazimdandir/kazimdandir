@@ -70,7 +70,7 @@
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3><br>
 <table align="center">
   <tr>
     <td align="center" width="110">
