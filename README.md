@@ -6,7 +6,29 @@
     Hi <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;" >, I'm Kazim.
     </h2>
 
-  <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
+  <p align="center">
+    <a href="https://linkedin.com/kazimikbaldandir" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kazimikbaldandir"/>
+    </a>
+    <a href="https://medium.com/@kikbal.dandir" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="kikbal.dandir"/>
+     </a>
+    <a href="https://stackoverflow.com/users/21403272/kaz%C4%B1m-%C4%B0kbal-dand%C4%B1r" target="_blank">
+     <img src="https://img.shields.io/badge/StackOverFlow-F47F24?style=for-the-badge&logo=StackOverFlow&logoColor=white" alt="kazim"/>
+    </a>
+    <a href="https://www.discord.com/users/kazim71" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=white" alt="kazim71"/>
+     </a> 
+     <a href="https://twitter.com/kazimdandir" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="dandir"/>
+     </a>
+    <a href="https://www.instagram.com/kazimdandir/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="kazimikbal"/>
+    </a> 
+   </p>
+   <br/>
+
+<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%"><br>
 
 <h3 align="center" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
 background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
@@ -41,16 +63,16 @@ text-fill-color: transparent;">A passionate Programmer from Istanbul</h3>
 💬      Ask me about anything here
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kazimikbaldandir" target="blank"><img    align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/linkedin.svg" alt="kazimikbaldandir" height="30" width="40" style="border: 1px solid white; border-radius: 3px;"/></a>
-<a href="https://medium.com/@kikbal.dandir" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/medium.svg" alt="kikbal.dandir" height="30" width="40" style="border: 1px solid white; border-radius: 3px;"/></a>
-<a href="https://stackoverflow.com/users/21403272/kaz%C4%B1m-%C4%B0kbal-dand%C4%B1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/stackoverflow.svg" alt="kazim" height="30" width="40" style="border: 1px solid white; border-radius: 3px;"/></a>
-<a href="https://www.discord.com/users/kazim71" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/discord.svg" alt="kazim71" height="30" width="40" style="border: 1px solid white; border-radius: 3px;"/></a>
-<a href="https://twitter.com/kazimdandir" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/x.svg" alt="dandir" height="30" width="40" style="border: 1px solid white; border-radius: 3px;"/></a>
-<a href="https://www.instagram.com/kazimdandir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/instagram.svg" alt="kazimikbal" height="30" width="40" style="border: 1px solid white; border-radius: 3px;"/></a>
+<a href="https://linkedin.com/in/kazimikbaldandir" target="blank"><img    align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/linkedin.svg" alt="kazimikbaldandir" height="30" width="40"/></a>
+<a href="https://medium.com/@kikbal.dandir" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/medium.svg" alt="kikbal.dandir" height="30" width="40"/></a>
+<a href="https://stackoverflow.com/users/21403272/kaz%C4%B1m-%C4%B0kbal-dand%C4%B1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/stackoverflow.svg" alt="kazim" height="30" width="40" /></a>
+<a href="https://www.discord.com/users/kazim71" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/discord.svg" alt="kazim71" height="30" width="40" /></a>
+<a href="https://twitter.com/kazimdandir" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/x.svg" alt="dandir" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kazimdandir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/social_media_icons/instagram.svg" alt="kazimikbal" height="30" width="40" /></a>
 </p>
-<br><br>
+<br><br> -->
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
