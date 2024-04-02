@@ -1,10 +1,12 @@
 <a href="https://komarev.com/ghpvc/?username=kazimdandir">
-    <img align="right" src="https://komarev.com/ghpvc/?username=kazimdandir&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-  </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=kazimdandir&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-  <h2 align="center">
-    Hi <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;" >, I'm Kazim.
-    </h2>
+<h2 align="center">
+  Hi <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;" >, I'm Kazim.
+</h2>
+
+<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%"><br>
 
   <p align="center">
     <a href="https://linkedin.com/kazimikbaldandir" target="_blank">
@@ -28,7 +30,6 @@
    </p>
    <br/>
 
-<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%"><br>
 
 <h3 align="center" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
 background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
