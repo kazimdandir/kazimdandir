@@ -31,12 +31,7 @@
    <br/>
 
 
-<h3 align="center" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
-text-fill-color: transparent;">A passionate Programmer from Istanbul</h3>
+<h3 align="center">A passionate Programmer from Istanbul</h3>
 
 <p align="center">I witness with amazement the tremendous changes that computer technology brings into our lives every day. Discovering innovative 🌐 technologies and using them skillfully to create wonderful things has become a real source of excitement for me. I'm still at the beginning of my journey, but with each new step, I learn more and 💻 continue to develop myself. Creating creative projects using innovative tools 🛠️ has become not only a hobby but also a passion for me. In this process, I find great joy in exploring the unlimited potential of technology and continuously improving myself.</p>
 
@@ -77,12 +72,7 @@ text-fill-color: transparent;">A passionate Programmer from Istanbul</h3>
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
-<h3 align="left" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
-text-fill-color: transparent;">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <table align="center">
   <tr>
     <td align="center" width="110">
@@ -129,12 +119,7 @@ text-fill-color: transparent;">Languages and Tools</h3>
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
-<h3 align="left" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
-background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
-text-fill-color: transparent;">Trophy</h3>
+<h3 align="left">Trophy</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/trophy.gif"  width="100px" height="100px"></p>
   
@@ -149,12 +134,7 @@ text-fill-color: transparent;">Trophy</h3>
 
  <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
- <h3 align="left" style="background: -webkit-linear-gradient(1.36deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
- background: linear-gradient(88.64deg, #f36 9.93%, #007aff 58.61%, #39cccc 89.36%);
- -webkit-background-clip: text;
- background-clip: text;
- -webkit-text-fill-color: transparent;
- text-fill-color: transparent;">GitHub Stats</h3>
+ <h3 align="left">GitHub Stats</h3>
 <p align="center">
     <a href="https://github.com/kazimdandir">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimdandir&theme=radical&border=7F3FBF&background=0D1117" alt="Kazim Dandir's GitHub streak"/>
