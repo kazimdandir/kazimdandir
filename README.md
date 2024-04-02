@@ -27,7 +27,7 @@
     <a href="https://www.instagram.com/kazimdandir/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="kazimikbal"/>
     </a> 
-   </p>
+   </p><br>
 
 <h3 align="center">A passionate Programmer from Istanbul</h3>
 
