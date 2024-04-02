@@ -4,9 +4,9 @@
 
 <h2 align="center">
   Hi <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;" >, I'm Kazim.
-</h2>
+</h2><br>
 
-<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%"><br>
+<img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%"><br><br>
 
   <p align="center">
     <a href="https://linkedin.com/kazimikbaldandir" target="_blank">
@@ -28,8 +28,6 @@
      <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="kazimikbal"/>
     </a> 
    </p>
-   <br/>
-
 
 <h3 align="center">A passionate Programmer from Istanbul</h3>
 
