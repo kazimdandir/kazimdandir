@@ -74,11 +74,11 @@
 <table align="center">
   <tr>
     <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/language_and_tools/c%23.svg" alt="csharp" width="65" height="65"/>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/language_and_tools/c%23.svg" alt="csharp" width="65" height="65"/></a>
       <br>C#
     </td>
-    <td align="center" width="110"> 
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/.net.svg" width="65" height="65" alt="dotnet" />
+    <td align="center" width="110">
+      <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"><img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/.net.svg" width="65" height="65" alt="dotnet" /></a> 
       <br>.Net
     </td>
     <!-- <td align="center" width="110">
@@ -86,23 +86,23 @@
       <br>JavaScript
     </td> -->
     <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" alt="microsoft-sql-server" width="130" height="65"/>
+      <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" alt="microsoft-sql-server" width="130" height="65"/></a>
       <br>MSSQL
     </td>
     <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/github.svg" alt="github" width="65" height="65" />
+      <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git"><img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/github.svg" alt="github" width="65" height="65"/></a>
       <br>GitHub
     </td>
     <td align="center"  width="110">
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/79893abf8dec88fef46c44a75a4eb5fc606e47a1/language_and_tools/git-bash.svg" width="65" height="65" alt="git" />
+      <a href="https://git-scm.com/about"><img src="https://raw.githubusercontent.com/kazimdandir/.github/79893abf8dec88fef46c44a75a4eb5fc606e47a1/language_and_tools/git-bash.svg" width="65" height="65" alt="git" /></a>
       <br>GitBash
     </td>
     <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5-css.gif" width="65" height="65" alt="css" />
+      <a href="https://medium.com/@ojbrot/everything-you-need-to-know-about-html5-and-css3-e83c80b5bb8b#:~:text=Conclusion-,HTML5%20and%20CSS3%20are%20essential%20tools%20for%20web%20developers%20and,and%20design%20of%20web%20pages."><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5-css.gif" width="65" height="65" alt="css" /></a>
       <br>HTML5-CSS
     </td>
     <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="65" height="65" alt="adobe-illustrator" />
+      <a href="https://helpx.adobe.com/illustrator/user-guide.html"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="65" height="65" alt="adobe-illustrator" /></a>
       <br>AI
     </td>
     <!-- <td align="center"  width="96">
