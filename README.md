@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%"><br><br>
 
   <p align="center">
-    <a href="https://linkedin.com/kazimikbaldandir" target="_blank">
+    <a href="https://www.linkedin.com/in/kazimikbaldandir/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kazimikbaldandir"/>
     </a>
     <a href="https://medium.com/@kikbal.dandir" target="_blank">
