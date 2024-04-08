@@ -81,10 +81,6 @@
       <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/.net.svg" width="65" height="65" alt="dotnet" /></a> 
       <br>.Net
     </td>
-    <!-- <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
-      <br>JavaScript
-    </td> -->
     <td align="center" width="110">
       <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" alt="microsoft-sql-server" width="130" height="65"/></a>
       <br>MSSQL
@@ -97,6 +93,8 @@
       <a href="https://git-scm.com/about" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/79893abf8dec88fef46c44a75a4eb5fc606e47a1/language_and_tools/git-bash.svg" width="65" height="65" alt="git" /></a>
       <br>GitBash
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5.gif" width="65" height="65" alt="html5" /></a>
       <br>HTML5
@@ -109,6 +107,10 @@
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/bootstrap.gif" width="65" height="65" alt="bootstrap" /></a>
       <br>Bootstrap
     </td>
+  <!-- <td align="center" width="110">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+      <br>JavaScript
+    </td> -->
     <td align="center" width="110">
       <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="65" height="65" alt="adobe-illustrator" /></a>
       <br>AI
