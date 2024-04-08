@@ -93,8 +93,6 @@
       <a href="https://git-scm.com/about" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/79893abf8dec88fef46c44a75a4eb5fc606e47a1/language_and_tools/git-bash.svg" width="65" height="65" alt="git" /></a>
       <br>GitBash
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5.gif" width="65" height="65" alt="html5" /></a>
       <br>HTML5
