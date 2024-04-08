@@ -98,17 +98,21 @@
       <br>GitBash
     </td>
     <td align="center" width="110">
-      <a href="https://medium.com/@ojbrot/everything-you-need-to-know-about-html5-and-css3-e83c80b5bb8b#:~:text=Conclusion-,HTML5%20and%20CSS3%20are%20essential%20tools%20for%20web%20developers%20and,and%20design%20of%20web%20pages." target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5-css.gif" width="65" height="65" alt="css" /></a>
-      <br>HTML5-CSS
+      <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5.gif" width="65" height="65" alt="html5" /></a>
+      <br>HTML5
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/6db32ebe3fe8aa173fb73f1236d4590aaa6f1f8d/language_and_tools/css.svg" width="65" height="65" alt="css" /></a>
+      <br>CSS
+    </td>
+    <td align="center" width="110">
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/bootstrap.gif" width="65" height="65" alt="bootstrap" /></a>
+      <br>Bootstrap
     </td>
     <td align="center" width="110">
       <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="65" height="65" alt="adobe-illustrator" /></a>
       <br>AI
     </td>
-    <!-- <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td> -->
   </tr>
 </table>
 <br><br>
