@@ -102,13 +102,13 @@
       <br>CSS
     </td>
     <td align="center" width="110">
+      <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/d1579c01bb41e36c099c2a65b7b91b5c833db4c1/language_and_tools/js.svg" width="65" height="65" alt="js" /></a>
+      <br>Javascript
+    </td>
+    <td align="center" width="110">
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/bootstrap.gif" width="65" height="65" alt="bootstrap" /></a>
       <br>Bootstrap
     </td>
-  <!-- <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
-      <br>JavaScript
-    </td> -->
     <td align="center" width="110">
       <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="65" height="65" alt="adobe-illustrator" /></a>
       <br>AI
