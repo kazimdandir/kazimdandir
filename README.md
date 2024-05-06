@@ -70,54 +70,113 @@
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
+<!-- <h3 align="left">Languages and Tools</h3><br>
+- Backend
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" width="50px" height="50px"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="50px" height="50px"/>
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="50px" height="50px"/>
+  </a>
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="50px" height="50px"/>
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="50px" height="50px"/>
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" width="100px" height="50px"/>
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50px" height="50px"/>
+  </a>
+  <a href="https://git-scm.com/about" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="50px" height="50px"/>
+  </a>
+  <a href=https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" height="50px"/>
+  </a>
+  <a href=https://www.sublimetext.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sublime" width="50px" height="50px"/>
+  </a>
+</p>
+
+- Design
+<p align="left">
+  <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ai" width="50px" height="50px"/>
+  </a>
+</p> -->
+
 <h3 align="left">Languages and Tools</h3><br>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/language_and_tools/c%23.svg" alt="csharp" width="65" height="65"/></a>
-      <br>C#
-    </td>
-    <td align="center" width="110">
-      <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/.net.svg" width="65" height="65" alt="dotnet" /></a> 
-      <br>.Net
-    </td>
-    <td align="center" width="110">
-      <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" alt="microsoft-sql-server" width="130" height="65"/></a>
-      <br>MSSQL
-    </td>
-    <td align="center" width="110">
-      <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/github.svg" alt="github" width="65" height="65"/></a>
-      <br>GitHub
-    </td>
-    <td align="center"  width="110">
-      <a href="https://git-scm.com/about" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/79893abf8dec88fef46c44a75a4eb5fc606e47a1/language_and_tools/git-bash.svg" width="65" height="65" alt="git" /></a>
-      <br>GitBash
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5.gif" width="65" height="65" alt="html5" /></a>
-      <br>HTML5
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/6db32ebe3fe8aa173fb73f1236d4590aaa6f1f8d/language_and_tools/css.svg" width="65" height="65" alt="css" /></a>
-      <br>CSS
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/d1579c01bb41e36c099c2a65b7b91b5c833db4c1/language_and_tools/js.svg" width="65" height="65" alt="js" /></a>
-      <br>Javascript
-    </td>
-    <td align="center" width="110">
-      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/bootstrap.gif" width="65" height="65" alt="bootstrap" /></a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="110">
-      <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank"><img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="65" height="65" alt="adobe-illustrator" /></a>
-      <br>AI
-    </td>
-  </tr>
-</table>
-<br><br>
-</tr>
-</tr></tr>
+- Backend
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/44482d1d2258eeeba5f155615833e331184518ab/language_and_tools/c%23.svg" width="50px" height="50px"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/2f10e06e034bea79c1261c20edc80d5691957433/language_and_tools/DotNet.svg" width="50px" height="50px"/>
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/html5.gif" width="50px" height="50px"/>
+  </a>
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/6db32ebe3fe8aa173fb73f1236d4590aaa6f1f8d/language_and_tools/css.svg" width="50px" height="50px"/>
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/d1579c01bb41e36c099c2a65b7b91b5c833db4c1/language_and_tools/js.svg" width="50px" height="50px"/>
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" width="100px" height="50px"/>
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/21b2e26fd4399a07939b1872909b2fcc19006cae/language_and_tools/github.svg" width="50px" height="50px"/>
+  </a>
+  <a href="https://git-scm.com/about" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/79893abf8dec88fef46c44a75a4eb5fc606e47a1/language_and_tools/git-bash.svg" width="50px" height="50px"/>
+  </a>
+  <a href=https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/bootstrap.gif" width="50px" height="50px"/>
+  </a>
+  <a href=https://www.sublimetext.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/abf70a18decea3aa23d4b2d3e9de41c9eac54c1d/language_and_tools/icons.svg" width="50px" height="50px"/>
+  </a>
+</p>
+
+- Design
+<p align="left">
+  <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="50px" height="50px"/>
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
