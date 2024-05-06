@@ -70,7 +70,7 @@
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
-<!-- <h3 align="left">Languages and Tools</h3><br>
+<h3 align="left">Languages and Tools</h3><br>
 - Backend
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -97,7 +97,7 @@
 - Database
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16" target="_blank">
-    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.gif" width="100px" height="50px"/>
+    <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/mssql.png" width="100px" height="50px"/>
   </a>
 </p>
 
@@ -124,7 +124,7 @@
   </a>
 </p> -->
 
-<h3 align="left">Languages and Tools</h3><br>
+<!-- <!-- <h3 align="left">Languages and Tools</h3><br>
 - Backend
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -176,7 +176,7 @@
   <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank">
     <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/language_and_tools/ai.gif" width="50px" height="50px"/>
   </a>
-</p>
+</p> -->
 
 <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
