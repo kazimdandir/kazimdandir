@@ -123,9 +123,9 @@
   <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=ai" width="50px" height="50px"/>
   </a>
-</p> -->
+</p>
 
-<!-- <!-- <h3 align="left">Languages and Tools</h3><br>
+<!-- <h3 align="left">Languages and Tools</h3><br>
 - Backend
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
