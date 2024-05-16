@@ -40,7 +40,7 @@
 
 <!-- 🔭      I’m currently working on UA IT(JKH IT) -->
 
-🌱      I’m currently learning C#, .NET Framework, .NET CORE, HTML5, CSS, JS, MSSQL.
+🌱      I’m currently learning .NET, HTML5, CSS, JS, MSSQL.
 
 👨‍💻      All of my projects are available at [my repo](https://github.com/kazimdandir?tab=repositories)
 
