@@ -110,10 +110,10 @@
   <a href="https://git-scm.com/about" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="50px" height="50px"/>
   </a>
-  <a href=https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" height="50px"/>
   </a>
-  <a href=https://www.sublimetext.com/" target="_blank">
+  <a href="https://www.sublimetext.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=sublime" width="50px" height="50px"/>
   </a>
 </p>
