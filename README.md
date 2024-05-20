@@ -197,7 +197,7 @@
  <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
  <h3 align="left">GitHub Stats</h3>
-  <p align="center">
+<p align="center">
     <a href="https://github.com/kazimdandir">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimdandir&theme=radical&border=7F3FBF&background=0D1117" alt="Kazim Dandir's GitHub streak"/>
     </a>
@@ -210,8 +210,7 @@
   </p>
   
   <a> 
-    <a href="https://github.com/kazimdandir"><img alt="Kazim Dandir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimdandir&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    
+      <a href="https://github.com/kazimdandir"><img alt="Kazim Dandir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimdandir&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <a href="https://github.com/kazimdandir"><img alt="Kazim Dandir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimdandir&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <br/>
   </a>  
