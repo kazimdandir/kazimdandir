@@ -197,11 +197,6 @@
  <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/line.gif" height="20" width="100%">
 
  <h3 align="left">GitHub Stats</h3>
-<p align="center">
-    <a href="https://github.com/kazimdandir">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimdandir&theme=radical&border=7F3FBF&background=0D1117" alt="Kazim Dandir's GitHub streak"/>
-    </a>
-  </p>
   
   <p align="center">
     <a href="https://github.com/kazimdandir">
